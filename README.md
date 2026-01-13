@@ -41,7 +41,7 @@ Follow these steps to run the application locally on your machine.
 ```bash
 git clone [https://github.com/JamilRaza001/Data_Analysis_Streamlit.git](https://github.com/JamilRaza001/Data_Analysis_Streamlit.git)
 cd Data_Analysis_Streamlit
-```
+
 
 2. Create a Virtual Environment (Optional but Recommended)
 Windows:
